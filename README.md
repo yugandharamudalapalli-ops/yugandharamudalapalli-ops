@@ -1,3 +1,30 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=yugandharamudalapalli-ops&color=blue&style=flat-square)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=AI%2FML+Engineer+%F0%9F%A4%96;Embedded+Systems+Developer+%F0%9F%94%A7;AMD+AI+Foundations+Certified+%F0%9F%8F%85;Electronics+%26+Communication+Engineer+%F0%9F%92%A1)](https://git.io/typing-svg)
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yugandharamudalapalli-ops&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=yugandharamudalapalli-ops&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugandharamudalapalli-ops&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yugandharamudalapalli-ops&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 # 💫 About Me:
 Strengthening my skills in AI/ML and exploring how electronics and intelligent systems intersect<br>Open-source projects involving embedded systems, IoT, or AI-powered hardware applications<br>Real-world exposure to VLSI design and edge AI deployment on embedded platforms<br>AI/ML fundamentals, LLMs, and AI deployment on AMD hardware platforms<br>Electronics & Communication Engineering, AI fundamentals, and embedded systems<br>I recently completed an AMD AI Foundations Learning Path covering 8 courses — from LLMs to AI Agents!
 
