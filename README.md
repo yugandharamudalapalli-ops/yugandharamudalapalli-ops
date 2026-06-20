@@ -1,5 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=yugandharamudalapalli-ops&color=blue&style=flat-square)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=AI%2FML+Engineer+%F0%9F%A4%96;Embedded+Systems+Developer+%F0%9F%94%A7;AMD+AI+Foundations+Certified+%F0%9F%8F%85;Electronics+%26+Communication+Engineer+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=AI%2FML+Engineer+%F0%9F%A4%96;VLSI+Engineer+%F0%9F%94%A7;AMD+AI+Foundations+Certified+%F0%9F%8F%85;Electronics+%26+Communication+Engineer+%F0%9F%92%A1)](https://git.io/typing-svg)
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
