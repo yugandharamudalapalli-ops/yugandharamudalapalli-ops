@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugandharamudalapalli-ops&layout=compact&theme=tokyonight" width="48%"/>
 </p>
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yugandharamudalapalli-ops&theme=tokyonight&no-frame=true&row=1&column=6"/>
